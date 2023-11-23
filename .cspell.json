@@ -1,0 +1,22 @@
+{
+  "words": [
+    "hmset",
+    "hexists",
+    "hgetall",
+    "zrangebyscore",
+    "zadd",
+    "sadd",
+    "hmget",
+    "sismember",
+    "smember",
+    "smembers",
+    "srem",
+    "sanitise",
+    "resave",
+    "randomname",
+    "likey",
+    "zrevrange",
+    "sanitised",
+    "Hola"
+  ]
+}
